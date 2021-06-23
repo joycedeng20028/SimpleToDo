@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-! [Walkthrough] (SimpleToDoDemo.gif)
+![Walkthrough]SimpleToDoDemo.gif)
 
 GIF created with [Licecap](https://www.cockos.com/licecap/).
 
