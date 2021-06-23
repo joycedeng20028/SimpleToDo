@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item**, however the edits do not persist back to the main screen (planning to fix later)
+
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
